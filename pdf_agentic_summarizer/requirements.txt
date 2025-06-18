@@ -1,5 +1,0 @@
-
-Flask
-PyMuPDF
-openai
-python-dotenv
